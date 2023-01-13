@@ -14,3 +14,29 @@ we measure the dispersion with median absolute deviation rather than standard de
  
 $MAD=median(|x_i - median(x)|$
 
+
+
+
+
+
+.
+given the enrolled courses this semester the program found that this is the best possible outcome 
+it's worthy to note that the coordinator could only narrow it down to 16 days while the programm found a 14 days solution
+
+|    | course1             | course2               | course3                    |
+|---:|:--------------------|:----------------------|:---------------------------|
+|  0 | TechnicalWriting    | -                     | -                          |
+|  1 | Electronics1        | InudstrialElectronics | -                          |
+|  2 | MachineDesign2      | FundOfMangement       | -                          |
+|  3 | EngineeringDrawing  | Signal                | NumericalControl           |
+|  4 | Calc3               | Physics               | Microcontroller            |
+|  5 | CSAndProgramming    | Ethics                | AVS                        |
+|  6 | Logic               | -                     | -                          |
+|  7 | calc1               | Robotics              | Mechatronics1              |
+|  8 | FundOfManuf         | DigitalControl        | MechanicsAndThermodynamics |
+|  9 | Fluid               | -                     | -                          |
+| 10 | SensorsAndActuators | Fields                | -                          |
+| 11 | Vibration           | accounting            | -                          |
+| 12 | Mechanics1          | PLC                   | Control1                   |
+| 13 | LinearAlgebra       | ManufSystemAutomation | Thermodynamics             |
+
